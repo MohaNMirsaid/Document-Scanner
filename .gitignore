@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Generated images
+scanned_image_*.png
+face_*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
